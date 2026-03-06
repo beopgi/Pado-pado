@@ -5,8 +5,8 @@
 |:------:|:------:|:------:|:------:|:------:|
 | 역할1 | 역할2 | 역할3 | 역할4 | 역할5 |
 | [beopgi](https://github.com/beopgi) |[KTheES](https://github.com/KTheES)|[LeeJihyun313](https://github.com/LeeJihyun313)|[imlalalala](https://github.com/lmlalalala)||[TayJeong](https://github.com/TayJeong)|
-| <img src="https://github.com/user-attachments/assets/9e39b232-4480-4762-ad58-81e9b09c0406" width="200"> |<img src="https://github.com/user-attachments/assets/be2e7f45-c7a4-48b1-a889-510b3da8dae1" width="200">|<img src="https://github.com/user-attachments/assets/ab1ae3e3-fe85-455f-a6f3-d3a303d2d606" width="200">|------|<img src="https://github.com/user-attachments/assets/d36cb375-1768-4711-b6fd-9e056cdcc081" width="200">|
-|파도파도팀 화이팅!|함께 더 멀리!|열심히 하겠습니다!|한 배를 탄 이상 도망칠수없다.. 열심히하겠습니다|성실히 참여하겠습니다!|
+| <img src="https://github.com/user-attachments/assets/9e39b232-4480-4762-ad58-81e9b09c0406" width="200"> |<img src="https://github.com/user-attachments/assets/be2e7f45-c7a4-48b1-a889-510b3da8dae1" width="200">|<img src="https://github.com/user-attachments/assets/ab1ae3e3-fe85-455f-a6f3-d3a303d2d606" width="200">|<img src="https://github.com/user-attachments/assets/e27cced0-9c89-4f16-ad9d-ff69d6b72a62" width="200">|<img src="https://github.com/user-attachments/assets/d36cb375-1768-4711-b6fd-9e056cdcc081" width="200">|
+|파도파도팀 화이팅!|함께 더 멀리!|열심히 하겠습니다!|한 배를 탄 이상 우리는 동료..|성실히 참여하겠습니다!|
 
 ## 주제
 - [AI 기반 Product-Ready 보팅 라이프 플랫폼: 매일 쓰는 올인원 모바일 앱으로 집단지성 항해 인텔리전스 구축](https://github.com/beopgi/AI-Powered-Boating-Platform)

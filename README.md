@@ -5,7 +5,7 @@
 |:------:|:------:|:------:|:------:|:------:|
 | 역할1 | 역할2 | 역할3 | 역할4 | 역할5 |
 | [beopgi](https://github.com/beopgi) |[KTheES](https://github.com/KTheES)|[LeeJihyun313](https://github.com/LeeJihyun313)|[imlalalala](https://github.com/lmlalalala)|[TayJeong](https://github.com/TayJeong)|
-| <img src="https://github.com/user-attachments/assets/9e39b232-4480-4762-ad58-81e9b09c0406" height="300" width="300"> |<img src="https://github.com/user-attachments/assets/be2e7f45-c7a4-48b1-a889-510b3da8dae1" height="300" width="300">|<img src="https://github.com/user-attachments/assets/ab1ae3e3-fe85-455f-a6f3-d3a303d2d606" height="300" width="300">|<img src="https://github.com/user-attachments/assets/e27cced0-9c89-4f16-ad9d-ff69d6b72a62" height="300" width="300">|<img src="https://github.com/user-attachments/assets/d36cb375-1768-4711-b6fd-9e056cdcc081" height="300" width="300">|
+| <img src="https://github.com/user-attachments/assets/9e39b232-4480-4762-ad58-81e9b09c0406" height="300" width="300"> |<img src="https://github.com/user-attachments/assets/7d4f4f73-b37f-41cd-9fff-3c0fe46309f7" height="300" width="300">|<img src="https://github.com/user-attachments/assets/ab1ae3e3-fe85-455f-a6f3-d3a303d2d606" height="300" width="300">|<img src="https://github.com/user-attachments/assets/e27cced0-9c89-4f16-ad9d-ff69d6b72a62" height="300" width="300">|<img src="https://github.com/user-attachments/assets/d36cb375-1768-4711-b6fd-9e056cdcc081" height="300" width="300">|
 |파도파도팀 화이팅!|함께 더 멀리!|열심히 하겠습니다!|한 배를 탄 이상<br> 우리는 동료..|성실히<br> 참여하겠습니다!|
 
 ## 주제

@@ -3,7 +3,7 @@
 
 | 김법기 | 김은수 | 이지현 | 임라라 | 정소영 |
 |:------:|:------:|:------:|:------:|:------:|
-| 역할1 | 역할2 | 역할3 | 역할4 | 역할5 |
+| 팀장 | 백엔드 | 프론트 | 프론트 | 백엔드 |
 | [beopgi](https://github.com/beopgi) | [KTheES](https://github.com/KTheES) | [LeeJihyun313](https://github.com/LeeJihyun313) | [imlalalala](https://github.com/lmlalalala) | [TayJeong](https://github.com/TayJeong) |
 | <img src="https://github.com/user-attachments/assets/9e39b232-4480-4762-ad58-81e9b09c0406" height="300" width="300"> | <img src="https://github.com/user-attachments/assets/7d4f4f73-b37f-41cd-9fff-3c0fe46309f7" height="300" width="300"> | <img src="https://github.com/user-attachments/assets/ebfb83fc-85e4-497a-9fbe-18d143111edf" height="250" width="250"> | <img src="https://github.com/user-attachments/assets/67f8f1fa-b9b3-4db1-b1f8-077de821b380" height="300" width="300"> |<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/5135beef-aee4-45f2-977b-951169fd7c71" />|
 | 파도파도팀 화이팅! | 함께 더 멀리! | 열심히 하겠습니다! | 모두 다같이 아자!!.. | 성실히 참여하겠습니다! |
